@@ -1,0 +1,111 @@
+body {
+
+	background: #777;
+	width: 960px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777;
+	font-size: '18px';
+	margin: auto;
+
+	
+
+}
+
+/*main {
+	width: 960px;
+}
+*/
+#headersection {
+
+	background-color: #ebebeb;
+	height: 10px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 50px;
+	display: block;
+	margin-top: 10px;
+
+}
+#navsection {
+
+	background-color: #ebebeb;
+	height: 10px;
+	text-align: center;
+	margin-top: 20px;
+	padding: 50px;
+	display: block;
+
+}
+
+#secsection {
+
+	background-color: #ebebeb;
+	height: 300px;
+	width: 495px;
+	/*margin-left: 20%;*/
+	text-align: center;
+	margin-top: 20px;
+	margin-right: 0 !important;
+	padding: 5px;
+	float: left;
+	margin-bottom: 20px;
+	
+}
+
+.artclass {
+
+	background-color:#777;
+	color: #ebebeb;
+	height: 235px;
+	width: 495px;
+	margin-top: 40px;  
+	
+}
+
+#artheadsection {
+
+	background-color: #ebebeb;
+	height: 70px;
+	width: 450px;
+	text-align: center;
+	margin-top: 45px;
+	margin-left: 20px;
+
+}
+
+#pgraph {
+
+	background-color: #ebebeb;
+	height: 70px;
+	width: 450px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 20px;
+
+}
+
+
+#asidesection {
+
+	background-color: #ebebeb;
+	height: 295px;
+	width: 420px;
+	text-align: center;
+	margin-top: 15px;
+	padding: 10px;
+	float: right;
+	
+
+}
+
+#footersection {
+
+	background-color: #ebebeb;
+	height: 10px;
+	margin-top: 20px;
+	text-align: center;
+	padding: 50px;
+	display: block;
+	clear: both;
+
+}
